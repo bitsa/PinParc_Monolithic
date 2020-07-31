@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinParc_Monolith", "PinParc_Monolith.csproj", "{868F68C1-887D-4364-BB47-06F81547DFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868F68C1-887D-4364-BB47-06F81547DFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868F68C1-887D-4364-BB47-06F81547DFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868F68C1-887D-4364-BB47-06F81547DFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868F68C1-887D-4364-BB47-06F81547DFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55BE3B10-BF89-402C-AE35-799A8BA6EF73}
+	EndGlobalSection
+EndGlobal
